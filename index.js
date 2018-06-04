@@ -18,7 +18,6 @@ function johnLennonFacts(facts) {
   }
 
   return shoutedFacts
-<<<<<<< HEAD
 }
 
 function iLoveTheBeatles(n) {
@@ -29,6 +28,4 @@ function iLoveTheBeatles(n) {
   } while (n < 15)
   
   return arr
-=======
->>>>>>> 19c68cf57e02bc497a247728fa2ad1dd1ad6354c
 }
